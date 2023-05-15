@@ -13,6 +13,6 @@ pip install gradio
 installed chocolatey
 https://chocolatey.org/install
 
-and then ffmpeg via chocolatey
+and then ffmpeg (ffmpeg is used to record audio from mic) via chocolatey
 
 choco install ffmpeg
