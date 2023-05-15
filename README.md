@@ -1,5 +1,6 @@
 # whisper_with_gradio
 from this video: https://www.youtube.com/watch?v=ywIyc8l1K1Q&ab_channel=1littlecoder
+
 i took code from file cpu-app.py: https://github.com/amrrs/openai-whisper-webapp  
 
 pip install -U openai-whisper
@@ -16,3 +17,6 @@ https://chocolatey.org/install
 and then ffmpeg (ffmpeg is used to record audio from mic) via chocolatey
 
 choco install ffmpeg
+
+
+after this it worked on my laptop
