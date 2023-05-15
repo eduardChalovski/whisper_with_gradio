@@ -6,6 +6,7 @@ pip install -U openai-whisper
 
 
 we also needed gradio -> https://github.com/gradio-app/gradio
+
 pip install gradio
 
 
